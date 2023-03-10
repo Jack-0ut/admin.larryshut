@@ -1,0 +1,4 @@
+DirectoryIndex admin.php
+RewriteEngine On
+RewriteBase /
+RewriteRule ^admin$ admin.php [L]
